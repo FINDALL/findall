@@ -95,7 +95,7 @@
 
 <!-- <title></title> 타이틀 설정 -->
 
-<title>벼룩시장 - 좋은 사람들의 생활정보 시장 - jsp2015</title>
+<title>벼룩시장 - 좋은 사람들의 생활정보 시장 - jsp</title>
 
 <!-- // <title></title> 타이틀 설정 -->
 
